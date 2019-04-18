@@ -50,9 +50,4 @@ dependencies {
 
     compile 'com.trello.rxlifecycle2:rxlifecycle-components:2.2.1'
     compile 'com.trello.rxlifecycle2:rxlifecycle-kotlin:2.2.1'
-
-    implementation 'me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0'
-    implementation 'me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0'
-
-    implementation 'com.google.code.gson:gson:2.8.5'
 }

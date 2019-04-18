@@ -8,8 +8,6 @@
             name="viewModel"
             type="com.novachevskyi.android.mvvmp.primary.PrimaryViewModel"/>
 
-        <import type="me.tatarka.bindingcollectionadapter2.LayoutManagers"/>
-
     </data>
 
     <LinearLayout
