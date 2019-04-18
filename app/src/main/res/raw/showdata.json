@@ -1,0 +1,2924 @@
+{
+  "current_sorting": "trending",
+  "current_filters": {
+    "network_filter": {
+      "id": "all",
+      "name": "All"
+    },
+    "genre_filter": {
+      "id": "all",
+      "name": "All"
+    },
+    "similar_to_filter": null,
+    "include_shows_filter": {
+      "id": "only_unwatched",
+      "name": "Only shows I do not follow"
+    }
+  },
+  "items": [
+    {
+      "show": {
+        "id": 296762,
+        "name": "Westworld",
+        "status": "Continuing",
+        "hashtag": "#Westworld",
+        "network": "HBO",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/296762/1277998-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/296762/1094214-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/296762/1094214-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/296762/1157147-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1048204,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "1903 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 323168,
+        "name": "13 Reasons Why",
+        "status": "Continuing",
+        "hashtag": "#13ReasonsWhy",
+        "network": "Netflix",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/323168/1281592-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/323168/1182157-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/323168/1182157-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/323168/1283892-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2350479,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "1471 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 295759,
+        "name": "Supergirl",
+        "status": "Continuing",
+        "hashtag": "#supergirl",
+        "network": "The CW",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/295759/1286172-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295759/1074081-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295759/1074081-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/295759/1286171-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1057553,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "938 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 268592,
+        "name": "The 100",
+        "status": "Continuing",
+        "hashtag": "#The100",
+        "network": "The CW",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/1276791-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/268592/1073905-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/268592/1073905-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/268592/1255347-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2115375,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "934 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 290853,
+        "name": "Fear the Walking Dead",
+        "status": "Continuing",
+        "hashtag": "#FearTWD",
+        "network": "AMC",
+        "number_of_seasons": 4,
+        "number_of_seasons_aired": 4,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/290853/1276623-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/290853/1085885-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/290853/1085885-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/290853/1278718-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 849680,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "746 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 266883,
+        "name": "The Originals",
+        "status": "Continuing",
+        "hashtag": "#TheOriginals",
+        "network": "The CW",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/266883/1277993-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/266883/977202-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/266883/977202-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/266883/1276624-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1309761,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "610 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 295837,
+        "name": "Shadowhunters",
+        "status": "Continuing",
+        "hashtag": "#Shadowhunters",
+        "network": "Freeform",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/295837/1173000-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295837/1084914-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295837/1084914-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/295837/1172304-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 940565,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "598 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 267907,
+        "name": "The Fosters (2013)",
+        "status": "Continuing",
+        "hashtag": "#fosters",
+        "network": "Freeform",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/267907/1220727-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/267907/997900-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/267907/997900-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/267907/1117239-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 359289,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "522 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 72748,
+        "name": "Moby Dick and the Mighty Mightor",
+        "status": "Ended",
+        "hashtag": "#mobydickandthemightymightor",
+        "network": "CBS",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/72748/1170246-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/72748/944067-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/72748/944067-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/72748/1170165-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 709,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "502 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 79168,
+        "name": "Friends",
+        "status": "Ended",
+        "hashtag": "#Friends",
+        "network": "NBC",
+        "number_of_seasons": 10,
+        "number_of_seasons_aired": 10,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/79168/1286002-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/79168/42826-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/79168/42826-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/79168/33286-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1067932,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "496 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 321239,
+        "name": "The Handmaid's Tale",
+        "status": "Continuing",
+        "hashtag": "#handmaidstale",
+        "network": "Hulu",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/321239/1285067-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/321239/1178065-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/321239/1178065-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/321239/1281234-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 440261,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "480 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 295685,
+        "name": "Lucifer",
+        "status": "Ended",
+        "hashtag": "#lucifer",
+        "network": "FOX (US)",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/295685/1218368-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295685/1079226-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/295685/1079226-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/295685/1122660-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1042882,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "362 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 311954,
+        "name": "Riverdale",
+        "status": "Continuing",
+        "hashtag": "#Riverdale",
+        "network": "The CW",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/311954/1237398-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/311954/1138820-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/311954/1138820-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/311954/1279526-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1575123,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "344 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 281249,
+        "name": "Tokyo Ghoul",
+        "status": "Continuing",
+        "hashtag": "#tokyoghoul",
+        "network": "Tokyo MX",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/281249/1272625-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/281249/1024515-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/281249/1024515-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/281249/1272621-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 319121,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "332 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 285626,
+        "name": "MasterChef (BR)",
+        "status": "Continuing",
+        "hashtag": "#masterchef",
+        "network": "Rede Bandeirantes",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/285626/1131280-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/285626/1044834-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/285626/1044834-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/285626/1129985-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 60970,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "330 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 73762,
+        "name": "Grey's Anatomy",
+        "status": "Continuing",
+        "hashtag": "#GreysAnatomy",
+        "network": "ABC (US)",
+        "number_of_seasons": 14,
+        "number_of_seasons_aired": 14,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/73762/1094999-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/73762/1035023-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/73762/1035023-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/73762/1105988-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1978006,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "256 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 327417,
+        "name": "Money Heist",
+        "status": "Continuing",
+        "hashtag": "#lacasadepapel",
+        "network": "Netflix",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/327417/1262012-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg",
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/327417/1267615-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1044395,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "252 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 153021,
+        "name": "The Walking Dead",
+        "status": "Continuing",
+        "hashtag": "#TWD",
+        "network": "AMC",
+        "number_of_seasons": 8,
+        "number_of_seasons_aired": 8,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/1241906-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/153021/1081637-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/153021/1081637-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/153021/1232802-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2950075,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "237 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 341704,
+        "name": "The Rain",
+        "status": "Continuing",
+        "hashtag": "#rain",
+        "network": "Netflix",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/341704/1286106-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341704/1261956-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341704/1261956-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/341704/1282214-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 257057,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "229 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 248835,
+        "name": "Once Upon a Time (2011)",
+        "status": "Ended",
+        "hashtag": "#OnceUponATime",
+        "network": "ABC (US)",
+        "number_of_seasons": 7,
+        "number_of_seasons_aired": 7,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/248835/1073685-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/248835/1055878-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/248835/1055878-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/248835/880716-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1615663,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "227 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 121361,
+        "name": "Game of Thrones",
+        "status": "Continuing",
+        "hashtag": "#GoT",
+        "network": "HBO",
+        "number_of_seasons": 7,
+        "number_of_seasons_aired": 7,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/121361/1243304-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/121361/900055-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/121361/900055-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/121361/858638-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 3495907,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "225 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 95491,
+        "name": "The Vampire Diaries",
+        "status": "Ended",
+        "hashtag": "#TVD",
+        "network": "The CW",
+        "number_of_seasons": 8,
+        "number_of_seasons_aired": 8,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/95491/1100862-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/95491/337711-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/95491/337711-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/95491/975813-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1759910,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "225 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 78901,
+        "name": "Supernatural",
+        "status": "Continuing",
+        "hashtag": "#Supernatural",
+        "network": "The CW",
+        "number_of_seasons": 13,
+        "number_of_seasons_aired": 13,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/78901/930313-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/78901/1080275-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/78901/1080275-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/78901/20365-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1563920,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "215 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 279121,
+        "name": "The Flash (2014)",
+        "status": "Continuing",
+        "hashtag": "#TheFlash",
+        "network": "The CW",
+        "number_of_seasons": 4,
+        "number_of_seasons_aired": 4,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/279121/1283826-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/279121/1044320-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/279121/1044320-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/279121/1032995-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2017316,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "202 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 73739,
+        "name": "Lost",
+        "status": "Ended",
+        "hashtag": "#Lost",
+        "network": "ABC (US)",
+        "number_of_seasons": 6,
+        "number_of_seasons_aired": 6,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/73739/888803-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/73739/1033613-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/73739/1033613-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/73739/89141-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 810859,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "193 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 264586,
+        "name": "Orange Is the New Black",
+        "status": "Continuing",
+        "hashtag": "#OITNB",
+        "network": "Netflix",
+        "number_of_seasons": 6,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/264586/1123109-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/264586/1073504-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/264586/1073504-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/264586/1144078-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2160102,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "188 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 268156,
+        "name": "Sense8",
+        "status": "Continuing",
+        "hashtag": "#Sense8",
+        "network": "Netflix",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/268156/1279620-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/268156/1078232-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/268156/1078232-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/268156/1202750-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1209225,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "182 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 289079,
+        "name": "Into the Badlands",
+        "status": "Continuing",
+        "hashtag": "#badlands",
+        "network": "AMC",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/289079/1104665-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/289079/1081681-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/289079/1081681-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/289079/1091156-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 117940,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "178 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 281593,
+        "name": "Unbreakable Kimmy Schmidt",
+        "status": "Continuing",
+        "hashtag": "#unbreakablekimmyschmidt",
+        "network": "Netflix",
+        "number_of_seasons": 4,
+        "number_of_seasons_aired": 4,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/281593/1129761-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/281593/1060814-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/281593/1060814-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/281593/1136618-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 266598,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "177 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 284131,
+        "name": "The Seven Deadly Sins",
+        "status": "Continuing",
+        "hashtag": "#sevendeadlysins",
+        "network": "MBS",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/284131/1248273-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/284131/1042321-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/284131/1042321-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/284131/1260408-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 258846,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "175 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 341291,
+        "name": "Safe",
+        "status": "Ended",
+        "hashtag": "#safe",
+        "network": "Netflix",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/341291/1283469-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341291/1280508-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341291/1280508-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/341291/1265535-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 70343,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "172 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 175001,
+        "name": "Teen Wolf",
+        "status": "Ended",
+        "hashtag": "#TeenWolf",
+        "network": "MTV (US)",
+        "number_of_seasons": 6,
+        "number_of_seasons_aired": 6,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/175001/1224128-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/175001/1021052-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/175001/1021052-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/175001/1047693-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1516747,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "171 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 344216,
+        "name": "Skam (IT)",
+        "status": "Continuing",
+        "hashtag": "#skam",
+        "network": null,
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/344216/1276478-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/344216/1271016-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/344216/1271016-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/344216/1287136-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 38620,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "169 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 257655,
+        "name": "Arrow",
+        "status": "Continuing",
+        "hashtag": "#Arrow",
+        "network": "The CW",
+        "number_of_seasons": 6,
+        "number_of_seasons_aired": 6,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/257655/1235485-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/257655/1085886-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/257655/1085886-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/257655/1242548-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 2060389,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "165 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 330669,
+        "name": "Are You Human Too?",
+        "status": "Continuing",
+        "hashtag": "#areyouhumantoo",
+        "network": "KBS TV2",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/330669/1283923-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg",
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/330669/1272375-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 3859,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "161 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 311790,
+        "name": "Lethal Weapon",
+        "status": "Continuing",
+        "hashtag": "#lethalweapon",
+        "network": "FOX (US)",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/311790/1164653-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/311790/1149548-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/311790/1149548-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/311790/1154533-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 155720,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "160 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 260449,
+        "name": "Vikings",
+        "status": "Continuing",
+        "hashtag": "#vikings",
+        "network": "History",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/260449/1058237-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/260449/1056570-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/260449/1056570-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/260449/1052545-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1629875,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "157 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 309130,
+        "name": "You Me Her",
+        "status": "Continuing",
+        "hashtag": "#youmeher",
+        "network": "Audience Network",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/309130/1130352-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/309130/1127791-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/309130/1127791-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/309130/1128358-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 101206,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "155 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 269586,
+        "name": "Brooklyn Nine-Nine",
+        "status": "Continuing",
+        "hashtag": "#Brooklyn99",
+        "network": "FOX (US)",
+        "number_of_seasons": 5,
+        "number_of_seasons_aired": 5,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/269586/1234846-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/269586/977610-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/269586/977610-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/269586/975999-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 375318,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "151 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 346026,
+        "name": "Pose",
+        "status": "Continuing",
+        "hashtag": "#pose",
+        "network": "FX (US)",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/346026/1281944-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/346026/1281957-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/346026/1281957-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/346026/1281945-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 6225,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "144 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 250749,
+        "name": "3%",
+        "status": "Continuing",
+        "hashtag": "#3percent",
+        "network": "Netflix",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/250749/1276051-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/250749/871375-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/250749/871375-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/250749/1282046-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 435178,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "143 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 279536,
+        "name": "Billions",
+        "status": "Continuing",
+        "hashtag": "#billions",
+        "network": "Showtime",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/279536/1261015-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/279536/1086414-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/279536/1086414-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/279536/1261014-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 126023,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "143 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 320724,
+        "name": "Legion",
+        "status": "Continuing",
+        "hashtag": "#LegionFX",
+        "network": "FX (US)",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/320724/1270648-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg",
+            "https://d36rlb2fgh8cjd.cloudfront.net/default-images/landscape-default-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/320724/1273364-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 347019,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "141 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 341902,
+        "name": "Skam (FR)",
+        "status": "Continuing",
+        "hashtag": "#skam",
+        "network": "Slash",
+        "number_of_seasons": 2,
+        "number_of_seasons_aired": 2,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/341902/1264573-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341902/1262072-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/341902/1262072-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/341902/1273603-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 42956,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "141 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 75332,
+        "name": "General Hospital",
+        "status": "Continuing",
+        "hashtag": "#generalhospital",
+        "network": "ABC (US)",
+        "number_of_seasons": 27,
+        "number_of_seasons_aired": 27,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/75332/1220753-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/75332/1010112-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/75332/1010112-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/75332/1031232-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 36998,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "140 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 247808,
+        "name": "Suits",
+        "status": "Continuing",
+        "hashtag": "#Suits",
+        "network": "USA Network",
+        "number_of_seasons": 8,
+        "number_of_seasons_aired": 7,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/247808/1182941-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/247808/1016453-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/247808/1016453-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/247808/1216304-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1153711,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "139 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 146711,
+        "name": "Pretty Little Liars",
+        "status": "Ended",
+        "hashtag": "#PLL",
+        "network": "Freeform",
+        "number_of_seasons": 7,
+        "number_of_seasons_aired": 7,
+        "is_started": true,
+        "is_ended": true,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/146711/1164186-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/146711/969992-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/146711/969992-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/146711/1148028-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 1773152,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "138 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 305074,
+        "name": "My Hero Academia",
+        "status": "Continuing",
+        "hashtag": "#myheroacademia",
+        "network": "NTV (JP)",
+        "number_of_seasons": 3,
+        "number_of_seasons_aired": 3,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/305074/1173661-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/305074/1130716-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/305074/1130716-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/305074/1132481-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 247040,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "137 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 302210,
+        "name": "Girls In The House",
+        "status": "Continuing",
+        "hashtag": "#girlsinthehouse",
+        "network": "YouTube",
+        "number_of_seasons": 4,
+        "number_of_seasons_aired": 4,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/302210/1283559-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/302210/1146493-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/302210/1146493-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/302210/1283560-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 178377,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "136 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    },
+    {
+      "show": {
+        "id": 331753,
+        "name": "Black Clover",
+        "status": "Continuing",
+        "hashtag": "#blackclover",
+        "network": "TV Tokyo",
+        "number_of_seasons": 1,
+        "number_of_seasons_aired": 1,
+        "is_started": true,
+        "is_ended": false,
+        "all_images": {
+          "poster": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-0-optimized.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-1-optimized.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-2-optimized.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-3-optimized.jpg",
+            "4": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-4-optimized.jpg",
+            "1,3": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-1,3-optimized.jpg",
+            "1,5": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-1,5-optimized.jpg",
+            "2,6": "https://dg31sz3gwrwan.cloudfront.net/poster/331753/1272786-2,6-optimized.jpg"
+          },
+          "banner": [
+            "https://dg31sz3gwrwan.cloudfront.net/banner/331753/1236929-0-q80.jpg",
+            "https://dg31sz3gwrwan.cloudfront.net/banner/331753/1236929-1-q80.jpg"
+          ],
+          "fanart": {
+            "0": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-0-q80.jpg",
+            "1": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-1-q80.jpg",
+            "2": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-2-q80.jpg",
+            "3": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-3-q80.jpg",
+            "7": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-7-q80.jpg",
+            "2.5": "https://dg31sz3gwrwan.cloudfront.net/fanart/331753/1282298-2.5-q80.jpg"
+          }
+        },
+        "nb_followers": 62991,
+        "followed": false,
+        "for_later": false,
+        "archived": false,
+        "dismissed_from_recommendations": false
+      },
+      "nb_friends": 0,
+      "friends": [],
+      "reason_name": "trending-show",
+      "reasons": [
+        {
+          "title": "Trending",
+          "subtitle": "132 new reactions in the last 3 days",
+          "image_urls": [
+            "https://d36rlb2fgh8cjd.cloudfront.net/icons/trending-show-icon.png"
+          ],
+          "detail_image_type": "none",
+          "border_width": 0,
+          "border_color": "#ffffff"
+        }
+      ],
+      "display": "follow"
+    }
+  ],
+  "recommendation_model": {
+    "id": 1,
+    "name": "Default model"
+  }
+}

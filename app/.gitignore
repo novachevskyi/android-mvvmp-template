@@ -1,0 +1,29 @@
+.gradle
+/local.properties
+
+# Idea
+/.idea/workspace.xml
+/.idea/modules.xml
+
+/.idea/dataSources.ids
+/.idea/dataSources.xml
+/.idea/sqlDataSources.xml
+/.idea/dynamic.xml
+/.idea/uiDesigner.xml
+/.idea/runConfigurations.xml
+/.idea/encodings.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+
+# Gradle:
+/.idea/gradle.xml
+/.idea/libraries
+
+.DS_Store
+/build
+*.iml
+
+/buildSrc/.gradle
+/buildSrc/build
+.idea/kotlinc.xml
